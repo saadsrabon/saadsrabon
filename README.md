@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/saadsrabon](https://github.com/saadsrabon)
 
-- 💬 Ask me about **Js ,C ,C++ , React , NodeJs ,Vue**
+- 💬 Ask me about **Js ,C ,C++ , React ,NextJs , NodeJs ,Vue**
 
 - 📫 How to reach me **saadsrabon2@gmail.com**
 
