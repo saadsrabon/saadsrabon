@@ -41,6 +41,83 @@ const developer = {
 
 <div align="center">
 
+## 🕹️ ɪɴᴛᴇʀᴀᴄᴛɪᴠᴇ ᴢᴏɴᴇ
+
+### 👾 Play a Game While You're Here!
+
+<a href="https://github.com/saadsrabon">
+  <img src="https://img.shields.io/badge/🎮_PLAY_SNAKE-FF0055?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://github.com/saadsrabon">
+  <img src="https://img.shields.io/badge/🎯_PLAY_PONG-330066?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://github.com/saadsrabon">
+  <img src="https://img.shields.io/badge/🎲_RANDOM_JOKE-000000?style=for-the-badge&logoColor=white" />
+</a>
+
+### 🎪 Fun Stuff
+
+<details>
+<summary>🔮 Click to Reveal a Secret Message</summary>
+<br>
+
+```
+╔═══════════════════════════════════════╗
+║                                       ║
+║   🌟 YOU FOUND THE EASTER EGG! 🌟    ║
+║                                       ║
+║   "Friends don't lie, and neither    ║
+║    does good code!"                   ║
+║                                       ║
+║   Keep exploring, keep coding! 💻     ║
+║                                       ║
+╚═══════════════════════════════════════╝
+```
+
+</details>
+
+<details>
+<summary>⚡ Click for a Random Dev Meme</summary>
+<br>
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
+</div>
+</details>
+
+<details>
+<summary>🎵 Play the Stranger Things Theme</summary>
+<br>
+
+```
+🎵 Now Playing: Stranger Things Theme 🎵
+
+♪ ┏(°.°)┛ ┗(°.°)┓ ┗(°.°)┛ ┏(°.°)┓ ♪
+
+Dun dun dun dun... *synth intensifies*
+```
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=HLPHqKY50t8">
+    <img src="https://img.shields.io/badge/▶️_LISTEN_ON_YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</div>
+
+</details>
+
+<details>
+<summary>🎰 Press Your Luck - Random Tech Fact!</summary>
+<br>
+
+![Random Tech Fact](https://uselessfacts-api.herokuapp.com/api/badge?language=en)
+
+</details>
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🔥 ᴛᴇᴄʜ ᴀʀꜱᴇɴᴀʟ
 
 </div>
@@ -84,6 +161,9 @@ const developer = {
 <div align="center">
 
 ## 📡 ᴛʀᴀɴꜱᴍɪꜱꜱɪᴏɴ ꜱᴛᴀᴛꜱ
+
+### ⚡ Click the Light Bulb to Toggle Dark Mode ⚡
+<sup>(Just kidding... but imagine! 💡)</sup>
 
 </div>
 
@@ -151,5 +231,10 @@ const developer = {
 █ ꜱᴛᴀʏ ᴄᴜʀɪᴏᴜꜱ. ꜱᴛᴀʏ ᴄᴏᴅɪɴɢ. ꜱᴛᴀʏ ᴀᴡᴇꜱᴏᴍᴇ. █
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
+
+### 🎮 Visitor's Game Score
+![](https://hit-counter.vercel.app/counter.png?badge=Player%20%23)
+
+<sub>🔥 You're visitor number... something! You win! 🏆</sub>
 
 </div>
