@@ -18,26 +18,26 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🚀 MISSION CONTROL
+###  MISSION CONTROL
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=61DAFB&multiline=true&repeat=true&width=600&height=400&lines=const+saad+%3D+%7B;++location%3A+%22Dhaka%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9%22%2C;++role%3A+%22Full+Stack+Developer%22%2C;++code%3A+%5B%22JavaScript%22%2C+%22TypeScript%22%2C+%22C%22%2C+%22C%2B%2B%22%2C+%22Python%22%5D%2C;++askMeAbout%3A+%5B%22web+dev%22%2C+%22tech%22%2C+%22app+dev%22%2C+%22UI%2FUX%22%5D%2C;++technologies%3A+%7B;++++frontEnd%3A+%7B;++++++js%3A+%5B%22React%22%2C+%22Next.js%22%2C+%22Vue%22%2C+%22React+Native%22%5D%2C;++++++css%3A+%5B%22Tailwind%22%2C+%22Sass%22%2C+%22Styled+Components%22%5D;++++%7D%2C;++++backEnd%3A+%7B;++++++js%3A+%5B%22Node.js%22%2C+%22Express%22%2C+%22NestJS%22%5D%2C;++++++databases%3A+%5B%22MongoDB%22%2C+%22PostgreSQL%22%2C+%22Firebase%22%5D;++++%7D%2C;++++devOps%3A+%5B%22Docker%22%2C+%22AWS%22%2C+%22Vercel%22%5D;++%7D%2C;++currentFocus%3A+%22Building+scalable+apps+%26+AI%2FML%22%2C;++funFact%3A+%22I+debug+with+console.log()+%F0%9F%98%8E%22;%7D%3B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1000&pause=400&color=61DAFB&multiline=true&repeat=true&width=600&height=400&lines=const+saad+%3D+%7B;++location%3A+%22Dhaka%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9%22%2C;++role%3A+%22Full+Stack+Developer%22%2C;++code%3A+%5B%22JavaScript%22%2C+%22TypeScript%22%2C+%22C%22%2C+%22C%2B%2B%22%2C+%22Python%22%5D%2C;++askMeAbout%3A+%5B%22web+dev%22%2C+%22tech%22%2C+%22app+dev%22%2C+%22UI%2FUX%22%5D%2C;++technologies%3A+%7B;++++frontEnd%3A+%7B;++++++js%3A+%5B%22React%22%2C+%22Next.js%22%2C+%22Vue%22%2C+%22React+Native%22%5D%2C;++++++css%3A+%5B%22Tailwind%22%2C+%22Sass%22%2C+%22Styled+Components%22%5D;++++%7D%2C;++++backEnd%3A+%7B;++++++js%3A+%5B%22Node.js%22%2C+%22Express%22%2C+%22NestJS%22%5D%2C;++++++databases%3A+%5B%22MongoDB%22%2C+%22PostgreSQL%22%2C+%22Firebase%22%5D;++++%7D%2C;++++devOps%3A+%5B%22Docker%22%2C+%22AWS%22%2C+%22Vercel%22%5D;++%7D%2C;++currentFocus%3A+%22Building+scalable+apps+%26+AI%2FML%22%2C;++funFact%3A+%22I+debug+with+console.log()+%F0%9F%98%8E%22;%7D%3B" alt="Typing SVG" />
 
 <br clear="right"/>
 
 ---
 
-## 🎯 WHAT I'M UP TO
+## WHAT I'M UP TO
 
-- 🔭 Currently working on **AI-powered SaaS applications**
-- 🌱 Learning **Go, Rust & System Design**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Next.js, Node.js, System Architecture**
-- 📫 Reach me: **saadsrabon2@gmail.com**
-- ⚡ Fun fact: **I think in components and dream in async/await**
+-  Currently working on **AI-powered SaaS applications**
+-  Learning **Go, Rust & System Design**
+-  Looking to collaborate on **Open Source Projects**
+-  Ask me about **React, Next.js, Node.js, System Architecture**
+-  Reach me: **saadsrabon2@gmail.com**
+-  Fun fact: **I think in components and dream in async/await**
 
 ---
 
-## 🔥 GITHUB STATS & STREAKS
+##  GITHUB STATS & STREAKS
 
 <div align="center">
   
@@ -53,11 +53,11 @@
 
 ---
 
-## 💻 TECH ARSENAL
+##  TECH ARSENAL
 
 <div align="center">
 
-### 🎨 Frontend Technologies
+###  Frontend Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -67,7 +67,7 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### ⚙️ Backend Technologies
+###  Backend Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -75,7 +75,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🛠️ Tools & Platforms
+###  Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -83,7 +83,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 💪 Core Languages
+###  Core Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -92,7 +92,7 @@
 
 ---
 
-## 🏆 ACHIEVEMENTS & TROPHIES
+##  ACHIEVEMENTS & TROPHIES
 
 <div align="center">
   
@@ -115,7 +115,7 @@
 
 ---
 
-## 🎯 CONTRIBUTION GRAPH
+##  CONTRIBUTION GRAPH
 
 <div align="center">
 
@@ -133,14 +133,14 @@
 
 ---
 
-## 📝 LATEST BLOG POSTS
+##  LATEST BLOG POSTS
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 🌟 FEATURED PROJECTS
+##  FEATURED PROJECTS
 
 <div align="center">
 
@@ -156,7 +156,7 @@
 
 ---
 
-## 💡 RANDOM DEV QUOTE
+##  RANDOM DEV QUOTE
 
 <div align="center">
 
@@ -166,18 +166,18 @@
 
 ---
 
-## 🎮 WHEN I'M NOT CODING...
+##  WHEN I'M NOT CODING...
 
 <div align="center">
 
 ```
 ┌─────────────────────────────────────┐
-│  🎸 Playing Guitar                  │
-│  🎮 Gaming (PS5/PC)                 │
-│  📚 Reading Tech Blogs              │
-│  🎬 Watching Sci-Fi Movies          │
-│  ⚽ Football Enthusiast             │
-│  🎯 Problem Solving on LeetCode     │
+│  Playing Guitar                  │
+│  Gaming (PS5/PC)                 │
+│  Reading Tech Blogs              │
+│  Watching Sci-Fi Movies          │
+│  Football Enthusiast             │
+│  Problem Solving on LeetCode     │
 └─────────────────────────────────────┘
 ```
 
@@ -185,7 +185,7 @@
 
 ---
 
-## 🤝 CONNECT WITH ME
+##  CONNECT WITH ME
 
 <div align="center">
 
@@ -200,7 +200,7 @@
 
 ---
 
-## 💰 SUPPORT MY WORK
+##  SUPPORT MY WORK
 
 <div align="center">
 
@@ -224,7 +224,7 @@
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-**🎯 2024 Goals: Contribute to more Open Source | Build 10 Projects | Master System Design**
+** 2026 Goals: Contribute to more Open Source | Build 10 Projects | Master System Design**
 
 ![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
 
