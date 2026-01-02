@@ -20,31 +20,7 @@
 
 ### 🚀 MISSION CONTROL
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=61DAFB&multiline=true&repeat=true&width=600&height=120&lines=const+saad+%3D+%7B;++location%3A+%22Dhaka%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9%22%2C;++role%3A+%22Full+Stack+Developer%22%2C;++status%3A+%22Coding+%F0%9F%92%BB%22;%7D%3B" alt="Typing SVG" />
-
-```typescript
-const saad = {
-  location: "Dhaka, Bangladesh 🇧🇩",
-  role: "Full Stack Developer",
-  code: ["JavaScript", "TypeScript", "C", "C++", "Python"],
-  askMeAbout: ["web dev", "tech", "app dev", "UI/UX"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js", "Vue", "React Native"],
-      css: ["Tailwind", "Sass", "Styled Components"],
-      uiLibraries: ["shadcn/ui", "Material-UI", "Ant Design"]
-    },
-    backEnd: {
-      js: ["Node.js", "Express", "NestJS"],
-      databases: ["MongoDB", "PostgreSQL", "Firebase", "Redis"]
-    },
-    devOps: ["Docker", "AWS", "Heroku", "Vercel", "GitHub Actions"],
-    tools: ["Git", "Figma", "Postman", "VS Code", "Linux"]
-  },
-  currentFocus: "Building scalable web applications & learning AI/ML",
-  funFact: "I debug with console.log() and I'm not ashamed! 😎"
-};
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=61DAFB&multiline=true&repeat=true&width=600&height=400&lines=const+saad+%3D+%7B;++location%3A+%22Dhaka%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9%22%2C;++role%3A+%22Full+Stack+Developer%22%2C;++code%3A+%5B%22JavaScript%22%2C+%22TypeScript%22%2C+%22C%22%2C+%22C%2B%2B%22%2C+%22Python%22%5D%2C;++askMeAbout%3A+%5B%22web+dev%22%2C+%22tech%22%2C+%22app+dev%22%2C+%22UI%2FUX%22%5D%2C;++technologies%3A+%7B;++++frontEnd%3A+%7B;++++++js%3A+%5B%22React%22%2C+%22Next.js%22%2C+%22Vue%22%2C+%22React+Native%22%5D%2C;++++++css%3A+%5B%22Tailwind%22%2C+%22Sass%22%2C+%22Styled+Components%22%5D;++++%7D%2C;++++backEnd%3A+%7B;++++++js%3A+%5B%22Node.js%22%2C+%22Express%22%2C+%22NestJS%22%5D%2C;++++++databases%3A+%5B%22MongoDB%22%2C+%22PostgreSQL%22%2C+%22Firebase%22%5D;++++%7D%2C;++++devOps%3A+%5B%22Docker%22%2C+%22AWS%22%2C+%22Vercel%22%5D;++%7D%2C;++currentFocus%3A+%22Building+scalable+apps+%26+AI%2FML%22%2C;++funFact%3A+%22I+debug+with+console.log()+%F0%9F%98%8E%22;%7D%3B" alt="Typing SVG" />
 
 <br clear="right"/>
 
@@ -65,9 +41,9 @@ const saad = {
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saadsrabon&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0055&icon_color=61DAFB&text_color=FFFFFF&ring_color=FF0055" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saadsrabon&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0055&icon_color=61DAFB&text_color=FFFFFF" />
   
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadsrabon&theme=radical&hide_border=true&background=0D1117&ring=FF0055&fire=FF0055&currStreakLabel=FF0055&sideNums=61DAFB&currStreakNum=61DAFB&sideLabels=61DAFB&dates=FFFFFF" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=saadsrabon&theme=radical&hide_border=true&background=0D1117&ring=FF0055&fire=FF0055&currStreakLabel=FF0055&sideNums=61DAFB&currStreakNum=61DAFB&sideLabels=61DAFB&dates=FFFFFF" />
 
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadsrabon&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0055&text_color=FFFFFF" />
   
@@ -143,7 +119,15 @@ const saad = {
 
 <div align="center">
 
-![Snake animation](https://github.com/saadsrabon/saadsrabon/blob/output/github-contribution-grid-snake-dark.svg)
+[![GitHub Contribution Snake](https://raw.githubusercontent.com/saadsrabon/saadsrabon/output/github-contribution-grid-snake.svg)](https://github.com/saadsrabon)
+
+**Or use this alternative snake animation:**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saadsrabon/saadsrabon/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saadsrabon/saadsrabon/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saadsrabon/saadsrabon/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
