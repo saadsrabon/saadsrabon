@@ -20,6 +20,8 @@
 
 ### 🚀 MISSION CONTROL
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=61DAFB&multiline=true&repeat=true&width=600&height=120&lines=const+saad+%3D+%7B;++location%3A+%22Dhaka%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9%22%2C;++role%3A+%22Full+Stack+Developer%22%2C;++status%3A+%22Coding+%F0%9F%92%BB%22;%7D%3B" alt="Typing SVG" />
+
 ```typescript
 const saad = {
   location: "Dhaka, Bangladesh 🇧🇩",
